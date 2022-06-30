@@ -1,46 +1,38 @@
 {
    "files": [   
 {
-         "name": "DTAC-KOPHYOE-FREE-01",
-         "url": "https://bagyiphyo.000webhostapp.com/DTAC-NOFREE-FREE-01.ovpn"
+         "name": "DTAC-FREE-001",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-FREE-01.ovpn"
       },
 {
-         "name": "DTAC-KOPHYOE-VIP-01",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-1.ovpn"
+         "name": "DTAC-VIP-01",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-VIP-01.ovpn"
       },
 {
-"name": "DTAC-KOPHYOE-VIP-02",
-"url":
-"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-1.ovpn"},
+         "name": "DTAC-GAME-VIP-02",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-VIP-02.ovpn"
+      },
 
 {
-"name": "DTAC-TH-VIP-01",
-"url":
-"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-1.ovpn"},
+         "name": "TRUE-FREE-01",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-FREE-01.ovpn"
+      },
 
 {
-         "name": "TRUE-KOPHYOE-FREE-01",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-1.ovpn"
+         "name": "TRUE-VIP-01",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-VIP-01.ovpn"
       },
+
 {
-         "name": "TRUE-KOPHYOE-VIP-01",
+         "name": "TRUE-GAME-VIP-02",
          "url":
-"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-1.ovpn"},
-
-{
-"name": "TRUE-TH-VIP-01",
-"url":
-"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-1.ovpn"},
-{
-         "name": "TRUE-KOPHYOE-VIP-02",
-         "url":
-"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-1.ovpn"}
+"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-GAME-VIP-02.ovpn"}
       
    ],
-"message":"🙏အားလုံးပဲမဂ်လာပါဗျ🙏\nအပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ?
+"message":"What's new \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏\nအပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ?
 🎮ဂိမ်းသမားများအတွက်
 🇹🇭TH Server အသစ်ထည့်‌ထားတယ်🎉
 အားပေးသောမိတ်ဆွေအပေါင်း ကျန်းမာချမ်းသာကြပါစေဗျာ🥰🙏",
-   "title":"📁ဖိုင်အပ်ဒိပ်လုပ်ပေးပါ📥" ,
+   "title":"အပ်ဒိပ်လုပ်ပေးပါ ?" ,
    "version": 1
 }
