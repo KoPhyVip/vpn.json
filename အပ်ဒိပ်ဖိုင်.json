@@ -1,8 +1,12 @@
 {
    "files": [   
 {
-         "name": "DTAC-FREE-001",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-FREE-01.ovpn"
+         "name": "DTAC-FREE-01",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-FREE-001.ovpn"
+      },
+{
+         "name": "DTAC-FREE-02",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-FREE-002.ovpn"
       },
 {
          "name": "DTAC-VIP-01",
@@ -15,16 +19,21 @@
 
 {
          "name": "TRUE-FREE-01",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-FREE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-FREE-001.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-01",
+         "name": "TRUE-FREE-02",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-FREE-002.ovpn"
+      },
+
+{
+         "name": "TRUE-VIP-001",
          "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-VIP-01.ovpn"
       },
 
 {
-         "name": "TRUE-GAME-VIP-02",
+         "name": "TRUE-GAME-VIP-002",
          "url":
 "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-GAME-VIP-02.ovpn"}
       
@@ -35,5 +44,5 @@ FREE အကောင့် လိုင်းကောင်းကောင်�
 🇹🇭TH Server အသစ်ထည့်‌ထားတယ်🎉
 အားပေးသောမိတ်ဆွေအပေါင်း ကျန်းမာချမ်းသာကြပါစေဗျာ🥰🙏",
    "title":"အပ်ဒိပ်လုပ်ပေးပါ ?" ,
-   "version": 1
+   "version": 2
 }
