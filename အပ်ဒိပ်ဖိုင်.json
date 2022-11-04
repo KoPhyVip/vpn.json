@@ -13,9 +13,20 @@
          "name": "DTAC🇹🇭VIP-001",
          "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-VIP-01.ovpn"
       },
+
 {
          "name": "DTAC🇹🇭VIP-002",
          "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-GAME-VIP-02.ovpn"
+      },
+
+{
+         "name": "DTAC🇹🇭VIP-003",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-03.ovpn"
+      },
+
+{
+         "name": "DTAC🇹🇭VIP-004",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-04.ovpn"
       },
 
 {
@@ -37,7 +48,17 @@
          "name": "TRUE🇹🇭VIP-002",
          "url":
 "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-GAME-VIP-02.ovpn"
-}
+},
+
+{
+         "name": "TRUE🇹🇭VIP-003",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-03.ovpn"
+      },
+
+{
+         "name": "TRUE🇹🇭VIP-004",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-04.ovpn"
+      }
       
    ],
 "message":"What's new \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏\nအပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ?
