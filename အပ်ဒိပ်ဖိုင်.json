@@ -1,130 +1,84 @@
-
-
 {
    "files": [    
 
 {
-         "name": "DTAC-FREE-01",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-FREE-001.ovpn"
-      },
-{
-         "name": "DTAC-FREE-02",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-FREE-002.ovpn"
-      },
-{
-         "name": "DTAC🇹🇭VIP-001",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-01.ovpn"
+         "name": "TH-KP-VIP-001",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-001.ovpn"
       },
 
 {
-         "name": "DTAC🇹🇭VIP-002",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-02.ovpn"
+         "name": "TH-KP-VIP-002",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-002.ovpn"
       },
 
 {
-         "name": "DTAC🇹🇭VIP-003",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-03.ovpn"
+         "name": "TH-KP-VIP-003",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-003.ovpn"
       },
 
 {
-         "name": "DTAC🇹🇭VIP-004",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-04.ovpn"
+         "name": "TH-KP-VIP-004",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-004.ovpn"
       },
 
 {
-         "name": "DTAC🇹🇭VIP-005",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-05.ovpn"
+         "name": "TH-KP-VIP-005",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-005.ovpn"
       },
 
 {
-         "name": "DTAC🇹🇭VIP-006",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-06.ovpn"
+         "name": "TH-KP-VIP-006",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-006.ovpn"
       },
 
 {
-         "name": "DTAC🇹🇭VIP-007",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-07.ovpn"
-      },
-
-{
-         "name": "DTAC🇹🇭VIP-008",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-08.ovpn"
-      },
-
-{
-         "name": "DTAC🇹🇭VIP-009",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-09.ovpn"
-      },
-
-{
-         "name": "DTAC🇹🇭VIP-010",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/DTAC-KP-VIP-10.ovpn"
-      },
-
-{
-         "name": "TRUE-FREE-01",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-FREE-001.ovpn"
-      },
-
-{
-         "name": "TRUE-FREE-02",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-FREE-002.ovpn"
-      },
-
-{
-         "name": "TRUE🇹🇭VIP-001",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-01.ovpn"
-      },
-
-{
-         "name": "TRUE🇹🇭VIP-002",
+         "name": "TH-KP-VIP-007",
          "url":
-"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-02.ovpn"
+"https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-007.ovpn"
 },
 
 {
-         "name": "TRUE🇹🇭VIP-003",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-03.ovpn"
+         "name": "TH-KP-VIP-008",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-008.ovpn"
       },
 
 {
-         "name": "TRUE🇹🇭VIP-004",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-04.ovpn"
+         "name": "TH-KP-VIP-009",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-009.ovpn"
      },
 
 {
-         "name": "TRUE🇹🇭VIP-005",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-05.ovpn"
+         "name": "TH-KP-VIP-010",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-010.ovpn"
      },
 
 {
-         "name": "TRUE🇹🇭VIP-006",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-06.ovpn"
+         "name": "TH-KP-VIP-011",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-011.ovpn"
      },
 
 {
-         "name": "TRUE🇹🇭VIP-007",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-07.ovpn"
+         "name": "TH-KP-VIP-012",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-012.ovpn"
      },
 
 {
-         "name": "TRUE🇹🇭VIP-008",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-08.ovpn"
+         "name": "TH-KP-VIP-013",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-013.ovpn"
      },
 
 {
-         "name": "TRUE🇹🇭VIP-009",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-09.ovpn"
+         "name": "TH-KP-VIP-014",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-014.ovpn"
      },
 
 {
-         "name": "TRUE🇹🇭VIP-010",
-         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TRUE-KP-VIP-10.ovpn"
+         "name": "TH-KP-VIP-015",
+         "url": "https://raw.githubusercontent.com/KoPhyVip/vpn.json/main/TH-KP-VIP-015.ovpn"
       }
       
    ],
 "message":"What's new \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏\n‼️အပ်ဒိပ်မလုပ်ရင်နောက်ထပ်အသုံးပြုလို့အရတော့ပါ🚫
 ဖိုင်အပ်ဒိပ်အသစ်",
    "title":"အပ်ဒိပ်မကျော်လိုက်ပါနဲ့ ?" ,
-   "version": 32
-}
+   "version": 33
